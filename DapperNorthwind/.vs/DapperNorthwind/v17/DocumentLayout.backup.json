@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\repositories\\categoryrepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\repositories\\categoryrepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\repositories\\categoryrepositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\repositories\\categoryrepositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\dtos\\categorydtos\\getbyidcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\dtos\\categorydtos\\getbyidcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|c:\\github\\dapperurunkategoriprojesi\\dappernorthwind\\dappernorthwind\\dtos\\categorydtos\\resultcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20409B22-D3F6-4B47-9452-6D9266AAB8B0}|DapperNorthwind\\DapperNorthwind.csproj|solutionrelative:dappernorthwind\\dtos\\categorydtos\\resultcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Form1.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Form1.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Form1.cs",
+              "RelativeToolTip": "DapperNorthwind\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:16:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Repositories\\CategoryRepositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Repositories\\CategoryRepositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Repositories\\CategoryRepositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "DapperNorthwind\\Repositories\\CategoryRepositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:10:34.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeToolTip": "DapperNorthwind\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:04:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetByIdProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "RelativeToolTip": "DapperNorthwind\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:03:20.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Repositories\\CategoryRepositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Repositories\\CategoryRepositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Repositories\\CategoryRepositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DapperNorthwind\\Repositories\\CategoryRepositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:57:26.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Form1.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Form1.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Form1.cs [Design]",
+              "RelativeToolTip": "DapperNorthwind\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:32:45.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeToolTip": "DapperNorthwind\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:03:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "DapperNorthwind\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:04:18.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetByIdCategoryDto.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\CategoryDtos\\GetByIdCategoryDto.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Dtos\\CategoryDtos\\GetByIdCategoryDto.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\CategoryDtos\\GetByIdCategoryDto.cs",
+              "RelativeToolTip": "DapperNorthwind\\Dtos\\CategoryDtos\\GetByIdCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:02:06.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "DapperNorthwind\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:01:24.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
+              "RelativeToolTip": "DapperNorthwind\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:00:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultCategoryDto.cs",
+              "DocumentMoniker": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\CategoryDtos\\ResultCategoryDto.cs",
+              "RelativeDocumentMoniker": "DapperNorthwind\\Dtos\\CategoryDtos\\ResultCategoryDto.cs",
+              "ToolTip": "C:\\Github\\DapperUrunKategoriProjesi\\DapperNorthwind\\DapperNorthwind\\Dtos\\CategoryDtos\\ResultCategoryDto.cs",
+              "RelativeToolTip": "DapperNorthwind\\Dtos\\CategoryDtos\\ResultCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:59:37.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\bin\Debug\DapperNorthwind.exe.config
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\bin\Debug\DapperNorthwind.exe
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\bin\Debug\DapperNorthwind.pdb
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\bin\Debug\Dapper.dll
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\obj\Debug\DapperNorthwind.csproj.AssemblyReference.cache
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\obj\Debug\DapperNorthwind.Form1.resources
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\obj\Debug\DapperNorthwind.Properties.Resources.resources
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\obj\Debug\DapperNorthwind.csproj.GenerateResource.cache
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\obj\Debug\DapperNorthwind.csproj.CoreCompileInputs.cache
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\obj\Debug\DapperNo.D213A8E3.Up2Date
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\obj\Debug\DapperNorthwind.exe
+C:\Github\DapperUrunKategoriProjesi\DapperNorthwind\DapperNorthwind\obj\Debug\DapperNorthwind.pdb
